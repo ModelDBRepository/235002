@@ -7,7 +7,7 @@ These files model the response of an NMDA receptor kinetic model to a 1ms pulse 
 Content of the zip file: 3 files including this readme.
 
 One file is the NMDA model (XML file). 
-The other is python scripts used to run the simulation and plot the results. The results plotted correspond to figure 3 of the paper.
+The other is a python script used to run the simulation and plot the results. The results plotted correspond to figure 3 of the paper.
 
 Requirements:  Libroadrunner (free open source simulation engine), Python, Numpy and MatplotLib.
 
