@@ -19,3 +19,5 @@ after successful run (name: NMDA-R Current (pA)_all_Mg_concentrations.pdf)
 
 For additional details, email jbouteil_at_usc.edu
 
+20180316 A new python script was provided by Jean-Marie C. Bouteiller. The axis are displayed
+correctly and it works with the latest version of matplotlib and libroadrunner (1.4.24).
